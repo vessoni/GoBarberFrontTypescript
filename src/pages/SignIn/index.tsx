@@ -58,7 +58,8 @@ const SignIn: React.FC = () => {
         </Form>
 
         <a href="create">
-          <FiLogIn /> Create Account
+          <FiLogIn />
+          Create Account
         </a>
       </Content>
       <Background />
